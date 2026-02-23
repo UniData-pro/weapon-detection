@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2259</id>
+      <name>AA_Weapon classification_1.1</name>
+      <size>20</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-18 15:59:23.215767+00:00</created>
+      <updated>2022-02-22 20:51:22.087512+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>19</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>pistol</name>
+          <color>#fa3253</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>automatic rifle</name>
+          <color>#34d1b7</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>shotgun</name>
+          <color>#ddff33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Other weapons</name>
+          <color>#2a7dd1</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>not weapon</name>
+          <color>#f59331</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>undetectedt</name>
+          <color>#ff6037</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>weapons are visible</name>
+          <color>#f078f0</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>weapons can be seen, but it is seen very poorly</name>
+          <color>#b83df5</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>nothing visible</name>
+          <color>#33ddff</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <owner>
+        <username></username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2022-02-22 22:40:22.759794+00:00</dumped>
+  </meta>
+  <image id="0" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___78___89___24d986c34ec6b3c55ef489974f00.jpg___crop_0.jpg.jpg" width="284" height="284">
+    <tag label="weapons are visible" source="manual"> </tag>
+    <tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="1" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___96___08___246e05a54af0a05975511cb8685c.jpg___crop_0.jpg.jpg" width="284" height="284">
+    <tag label="pistol" source="manual"> </tag>
+    <tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="2" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___ee___ff___d3433e3949b29574dbbca7c8e9cf.jpg___crop_0.jpg.jpg" width="248" height="248">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="3" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___0e___6c___759ddbf74e65b4e4307d334f9479.jpg___crop_0.jpg.jpg" width="234" height="234">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons can be seen, but it is seen very poorly" source="manual"> </tag>
+  </image>
+  <image id="4" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___01___2e___dac0bee849519bfad9024e3cdefe.jpg___crop_0.jpg.jpg" width="278" height="278">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="5" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___1d___c9___574d1ebc49cab3a4dfa207fe9ac2.jpg___crop_0.jpg.jpg" width="284" height="284">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="6" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___5d___b7___0f6e8b2f4abfa10c881805060278.jpg___crop_0.jpg.jpg" width="238" height="238">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="7" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___06___ef___13fee8b94f4a907f9924329e0098.jpg___crop_0.jpg.jpg" width="196" height="196">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="8" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___66___1d___8bfd966d46c9a0007aad931c0555.jpg___crop_0.jpg.jpg" width="294" height="294">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="9" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___74___2d___09aa5e7a407b8224336d26c434f5.jpg___crop_0.jpg.jpg" width="224" height="224">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="10" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___b7___bf___74a02f844e14917c5066ae4f412a.jpg___crop_0.jpg.jpg" width="234" height="234">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="11" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___d1___11___27e00f2f4d69b0f676efce8239ee.jpg___crop_0.jpg.jpg" width="284" height="284">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="12" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___0d___a3___e41320f64ab8890020352752a853.jpg___crop_0.jpg.jpg" width="302" height="302">
+	<tag label="pistolet" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="13" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___06___eb___8d286b71401a941e13cd585bd512.jpg___crop_0.jpg.jpg" width="296" height="296">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="14" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___6d___b9___b09c119f4347927fcb90614fb17e.jpg___crop_0.jpg.jpg" width="312" height="312">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="15" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___18___c5___501ec5b74a2ea1d796866c62d28e.jpg___crop_0.jpg.jpg" width="288" height="288">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="16" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___30___19___dbb73805485ea4d297f66f98ff1b.jpg___crop_0.jpg.jpg" width="270" height="270">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="17" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___43___21___fb23795e4ead959d5f54a5bd8ebd.jpg___crop_0.jpg.jpg" width="286" height="286">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+  <image id="18" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___52___9b___044fd14040019a728d61d8120314.jpg___crop_0.jpg.jpg" width="290" height="290">
+	<tag label="pistol" source="manual"> </tag>
+	<tag label="weapons are visible" source="manual"> </tag>
+  </image>
+  <image id="19" name="images/images___category_weapon___videos_unidata_114_frames_0__crops___crops2x___63___07___e2e304cd4f93830f0024b4071a8c.jpg___crop_0.jpg.jpg" width="306" height="306">
+	<tag label="weapons are visible" source="manual"> </tag>
+	<tag label="pistol" source="manual"> </tag>
+  </image>
+</annotations>
